@@ -1,0 +1,23 @@
+@import "base/variables";
+@import "base/mixins";
+
+body {
+  min-width: 271px;
+
+  font-family: "Museo Moderno";
+
+  background-color: #f6f6f6;
+}
+
+.container {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+@import "blocks/buttons";
+@import "blocks/titles";
+@import "blocks/promo";
+@import "blocks/header";
+@import "blocks/advantages";
+@import "blocks/consultation";
+@import "blocks/media";
