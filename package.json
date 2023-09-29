@@ -22,5 +22,13 @@
     "last 1 version",
     "> 1%",
     "not dead"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProT00ls/pulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProT00ls/pulse/issues"
+  },
+  "homepage": "https://github.com/ProT00ls/pulse#readme"
 }
